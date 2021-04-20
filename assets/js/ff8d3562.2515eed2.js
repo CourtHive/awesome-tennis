@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{91:function(e){e.exports=JSON.parse('{"allTagsPath":"/awesome-tennis/blog/tags","slug":"awesome-tennis","name":"awesome tennis","count":1,"permalink":"/awesome-tennis/blog/tags/awesome-tennis"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{80:function(e){e.exports=JSON.parse('{"allTagsPath":"/awesome-tennis/blog/tags","slug":"open-source","name":"open source","count":1,"permalink":"/awesome-tennis/blog/tags/open-source"}')}}]);

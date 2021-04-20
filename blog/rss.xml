@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Awesome Tennis Blog</title>
+        <link>https://courthive.github.io/blog</link>
+        <description>Awesome Tennis Blog</description>
+        <lastBuildDate>Tue, 20 Apr 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Introduction]]></title>
+            <link>https://courthive.github.io/awesome-tennis/blog/Introduction</link>
+            <guid>Introduction</guid>
+            <pubDate>Tue, 20 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[There are probably hundreds of tennis related apps available, and probably dozens of open source projects which address some aspect of tennis. Many times I've lost bookmarks or notes or emails related to various products or projects or desired features... so this is an attempt to capture some of that information in a way less likely to disappear down the memory hole, and perhaps to inspire some community conversation.]]></description>
+        </item>
+    </channel>
+</rss>
